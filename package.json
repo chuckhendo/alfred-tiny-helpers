@@ -8,5 +8,9 @@
   },
   "alfy": {
     "updateNotification": false
+  },
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
   }
 }
