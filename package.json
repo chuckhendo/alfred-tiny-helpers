@@ -1,0 +1,12 @@
+{
+  "name": "alfred-tiny-helpers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.9.1"
+  },
+  "alfy": {
+    "updateNotification": false
+  }
+}
